@@ -20,3 +20,22 @@
 이 프로젝트를 통해 생성된 2차 저작물 역시 동일한 라이선스로 공유되어야 합니다.
 
 저자: 이건민
+
+# Analysis of the P vs NP Problem through Process-Centric and Result-Centric Superposition
+
+## Description
+This repository contains the analysis of the P vs NP problem through the lens of process-centric and result-centric superposition. The paper explores how quantum mechanical concepts like superposition and measurement can be applied to understand computational complexity theory.
+
+## Key Concepts
+- **P vs NP Problem**: A major unsolved problem in computer science, concerning the relationship between problems that can be verified quickly (NP) and problems that can be solved quickly (P).
+- **Process-Centric Superposition**: A focus on the process involved in solving a problem, highlighting how intermediate states can be entangled.
+- **Result-Centric Superposition**: A focus on the final solution of a problem, where the solution's correctness is verified at the end.
+
+## Usage
+To understand the theory, review the paper and accompanying scripts that illustrate the concepts.
+
+## License
+This work is licensed under the MIT License.
+
+## Acknowledgments
+Special thanks to those who provided feedback and support during the writing of this paper.

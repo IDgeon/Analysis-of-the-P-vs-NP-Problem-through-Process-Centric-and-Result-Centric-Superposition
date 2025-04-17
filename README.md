@@ -4,6 +4,7 @@
 핵심 개념은 '과정 중심 중첩'과 '결과 중심 중첩'의 구분을 통해, 어떤 NP 문제는 계산과정 그 자체에서 증명 불가능성을 지닐 수 있음을 논증합니다.
 
 > 본 논문은 GPT의 도움을 받아 문장을 다듬었지만, 모든 아이디어 및 핵심 논지는 저자 개인의 것입니다.
+> 영어버전또한 GPT의 도움을 받아 번역하였습니다. 오역이나 어색한 표현이 있을 수 있습니다.
 
 ## 파일 목록
 
@@ -43,3 +44,5 @@ Thus, it can be freely shared and modified, excluding commercial purposes, and t
 Any derivative works created from this project must also be shared under the same license.
 
 Author: Lee Geonmin
+
+This English translation was generated with the assistance of ChatGPT. Please note that some parts may contain inaccuracies or unnatural phrasing.

@@ -21,21 +21,25 @@
 
 저자: 이건민
 
-# Analysis of the P vs NP Problem through Process-Centric and Result-Centric Superposition
+# Distinction Between Process-Centric and Result-Centric Superposition: A Quantum Mechanical Analysis of the P vs NP Problem
 
-## Description
-This repository contains the analysis of the P vs NP problem through the lens of process-centric and result-centric superposition. The paper explores how quantum mechanical concepts like superposition and measurement can be applied to understand computational complexity theory.
+This repository presents a personal research outcome that reexamines the P vs NP problem from quantum mechanical concepts and philosophical perspectives.  
+The core idea is to demonstrate that certain NP problems may inherently possess the impossibility of proof in their computational process, by distinguishing between 'process-centric superposition' and 'result-centric superposition.'
 
-## Key Concepts
-- **P vs NP Problem**: A major unsolved problem in computer science, concerning the relationship between problems that can be verified quickly (NP) and problems that can be solved quickly (P).
-- **Process-Centric Superposition**: A focus on the process involved in solving a problem, highlighting how intermediate states can be entangled.
-- **Result-Centric Superposition**: A focus on the final solution of a problem, where the solution's correctness is verified at the end.
+> This paper was refined with the help of GPT, but all ideas and core arguments are the author's own.
 
-## Usage
-To understand the theory, review the paper and accompanying scripts that illustrate the concepts.
+## File List
 
-## License
-This work is licensed under the MIT License.
+- **Distinction Between Process-Centric and Result-Centric Superposition.pdf** — Final paper (in Korean)
+- 
+- - Differentiating NP problems into 'process-centric' and 'result-centric' through Sudoku and Minesweeper
+- Applying the concepts of quantum mechanical observation dependence and superposition to mathematical conundrums
+- Some problems inherently have the property **P ≠ NP**, while others approach **proof impossibility**
+- Presenting the potential for approaching the Millennium Prize problem from a philosophical and physical perspective
 
-## Acknowledgments
-Special thanks to those who provided feedback and support during the writing of this paper.
+## Copyright and Usage
+This project follows the Creative Commons BY-NC-SA license.  
+Thus, it can be freely shared and modified, excluding commercial purposes, and the source must be credited.  
+Any derivative works created from this project must also be shared under the same license.
+
+Author: Lee Geonmin
